@@ -6,7 +6,7 @@
 
 #### [DoorDash Case Study](/https://www.linkedin.com/pulse/marketing-analysis-doordash-case-study-hafsa-masood/)
 <img src="images/doordash_casestudy.jpg?raw=true"/>
-Tolulope is the best
+In this case study, I analyzed DoorDash orders data to see which demographics spent the most money on DoorDash, and assessed the success of DoorDash's marketing campaigns. 
 
 ---
 #### [Linked File Project](/files/Day 12 - 21 days to data.pdf)
