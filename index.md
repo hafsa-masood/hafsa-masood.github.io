@@ -4,7 +4,7 @@
 
 ### Learn About My Projects
 
-#### [DoorDash Case Study](/https://www.linkedin.com/pulse/marketing-analysis-doordash-case-study-hafsa-masood/)
+#### [DoorDash Case Study](https://www.linkedin.com/pulse/marketing-analysis-doordash-case-study-hafsa-masood/)
 <img src="images/doordash_casestudy.jpg?raw=true"/>
 In this case study, I analyzed DoorDash orders data to see which demographics spent the most money on DoorDash, and assessed the success of DoorDash's marketing campaigns. 
 
