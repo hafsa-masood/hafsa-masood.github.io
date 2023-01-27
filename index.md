@@ -4,7 +4,7 @@
 
 ### Learn About My Projects
 
-#### [DoorDash Case Study](/https://www.linkedin.com/pulse/marketing-analysis-doordash-case-study-hafsa-masood)
+#### [DoorDash Case Study](/https://www.linkedin.com/pulse/marketing-analysis-doordash-case-study-hafsa-masood/)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 Tolulope is the best
 
