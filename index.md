@@ -10,7 +10,7 @@ In this case study, I analyzed DoorDash orders data to see which demographics sp
 
 ---
 #### [Massachusetts Education System](https://www.linkedin.com/pulse/massachusetts-education-system-can-we-make-things-better-masood/)
-<img src="images/21 Days To Data Challenge.png?raw=true"/>
+<img src="images/school.jpeg?raw=true"/>
 For this project, I created some Tableau visualizations to assess the performance of students by analyzing data from Massachusetts' Deperartment of Education. 
 
 ---
