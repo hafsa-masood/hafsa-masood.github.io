@@ -14,8 +14,8 @@ In this case study, I analyzed DoorDash orders data to see which demographics sp
 For this project, I created some Tableau visualizations to assess the performance of students by analyzing data from Massachusetts' Deperartment of Education. 
 
 ---
-#### [World Bank Loans](https://www.linkedin.com/pulse/what-i-learned-21-days-data-avery-smith](https://www.linkedin.com/pulse/sql-world-bank-analysis-hafsa-masood/)
-<img src="images/21 Days To Data Challenge What I've Learned Cover.png?raw=true"/>
+#### [World Bank Loans](https://www.linkedin.com/pulse/sql-world-bank-analysis-hafsa-masood/)
+<img src="images/image_building.jpeg?raw=true"/>
 With the help of SQL, I analyzed more than 1 million data points from the World Bank's credit statements to identify which countries have taken out loans and how much money is owed to the World Bank. 
 
 ---
