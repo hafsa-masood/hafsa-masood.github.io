@@ -14,10 +14,9 @@ In this case study, I analyzed DoorDash orders data to see which demographics sp
 For this project, I created some Tableau visualizations to assess the performance of students by analyzing data from Massachusetts' Deperartment of Education. 
 
 ---
-#### [External Link Project](https://www.linkedin.com/pulse/what-i-learned-21-days-data-avery-smith)
-[<img src="images/21 Days To Data Challenge What I've Learned Cover.png?raw=true"/>](https://www.linkedin.com/pulse/what-i-learned-21-days-data-avery-smith)
-My final write up for Avery Smith's 21 Days To Data project covering New York City crime data. 
-
+#### [World Bank Loans](https://www.linkedin.com/pulse/what-i-learned-21-days-data-avery-smith](https://www.linkedin.com/pulse/sql-world-bank-analysis-hafsa-masood/)
+<img src="images/21 Days To Data Challenge What I've Learned Cover.png?raw=true"/>
+With the help of SQL, I analyzed more than 1 million data points from the World Bank's credit statements to identify which countries have taken out loans and how much money is owed to the World Bank. 
 
 ---
 #### [Education Project](https://www.linkedin.com/pulse/massachusetts-education-analysis-samantha-paul/)
@@ -28,6 +27,7 @@ How does class size affect college admission?
 What are the top math schools in the state? 
 
 ---
+#### [World Bank Loans]
 
 ### Category Name 2
 
