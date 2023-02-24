@@ -9,7 +9,7 @@
 In this case study, I analyzed DoorDash orders data to see which demographics spent the most money on DoorDash, and assessed the success of DoorDash's marketing campaigns. 
 
 ---
-#### [Massachusetts Education System]([/files/Day 12 - 21 days to data.pdf](https://www.linkedin.com/pulse/massachusetts-education-system-can-we-make-things-better-masood/)
+#### [Massachusetts Education System](https://www.linkedin.com/pulse/massachusetts-education-system-can-we-make-things-better-masood/)
 <img src="images/21 Days To Data Challenge.png?raw=true"/>
 For this project, I created some Tableau visualizations to assess the performance of students by analyzing data from Massachusetts' Deperartment of Education. 
 
