@@ -19,7 +19,7 @@ For this project, I created some Tableau visualizations to assess the performanc
 With the help of SQL, I analyzed more than 1 million data points from the World Bank's credit statements to identify which countries have taken out loans and how much money is owed to the World Bank. 
 
 ---
-#### [Education Project](https://www.linkedin.com/pulse/massachusetts-education-analysis-samantha-paul/)
+#### [Assessment of Hospital Performance](https://www.linkedin.com/pulse/sql-health-project-assessing-hospital-performance-hafsa-masood/)
 [<img src="images/21 Days To Data Challenge What I've Learned Cover.png?raw=true"/>](https://www.linkedin.com/pulse/what-i-learned-21-days-data-avery-smith)
 In this case study from Data Analytics Accelerator, I was prompted to analyze the State of Massachusetts education data. The main focuses were:
 What schools are struggling the most?
@@ -27,7 +27,12 @@ How does class size affect college admission?
 What are the top math schools in the state? 
 
 ---
-#### [World Bank Loans]
+#### [Basketball]
+
+---
+#### [Mining Company]
+
+---
 
 ### Category Name 2
 
