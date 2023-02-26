@@ -20,11 +20,8 @@ With the help of SQL, I analyzed more than 1 million data points from the World 
 
 ---
 #### [Assessment of Hospital Performance](https://www.linkedin.com/pulse/sql-health-project-assessing-hospital-performance-hafsa-masood/)
-[<img src="images/21 Days To Data Challenge What I've Learned Cover.png?raw=true"/>](https://www.linkedin.com/pulse/what-i-learned-21-days-data-avery-smith)
-In this case study from Data Analytics Accelerator, I was prompted to analyze the State of Massachusetts education data. The main focuses were:
-What schools are struggling the most?
-How does class size affect college admission?
-What are the top math schools in the state? 
+<img src="images/hospital.jpeg?raw=true"/>](https://www.linkedin.com/pulse/what-i-learned-21-days-data-avery-smith)
+In this case study, I analyzed hospital data to see how well a hospital is doing in terms of caring for their patients and managing their resources.
 
 ---
 #### [Basketball]
