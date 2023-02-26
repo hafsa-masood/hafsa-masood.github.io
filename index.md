@@ -24,8 +24,10 @@ With the help of SQL, I analyzed more than 1 million data points from the World 
 In this case study, I analyzed hospital data to see how well a hospital is doing in terms of caring for their patients and managing their resources.
 
 ---
-#### [Basketball Case Study Visualizations]
+#### [Basketball Case Study Visualizations](https://www.linkedin.com/pulse/basketball-case-study-hafsa-masood/)
 <img src="images/basketball.jpeg?raw=true"/>
+I created Tableau visualizations with basketball player and team data to look at player performance and make better team strategies. 
+
 ---
 #### [Mining Company]
 
