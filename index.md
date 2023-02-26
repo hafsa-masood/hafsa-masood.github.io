@@ -24,8 +24,8 @@ With the help of SQL, I analyzed more than 1 million data points from the World 
 In this case study, I analyzed hospital data to see how well a hospital is doing in terms of caring for their patients and managing their resources.
 
 ---
-#### [Basketball]
-
+#### [Basketball Case Study Visualizations]
+<img src="images/basketball.jpeg?raw=true"/>
 ---
 #### [Mining Company]
 
