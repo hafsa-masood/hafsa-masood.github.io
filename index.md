@@ -20,7 +20,7 @@ With the help of SQL, I analyzed more than 1 million data points from the World 
 
 ---
 #### [Assessment of Hospital Performance](https://www.linkedin.com/pulse/sql-health-project-assessing-hospital-performance-hafsa-masood/)
-<img src="images/hospital.jpeg?raw=true"/>](https://www.linkedin.com/pulse/what-i-learned-21-days-data-avery-smith)
+<img src="images/hospital.jpeg?raw=true"/>
 In this case study, I analyzed hospital data to see how well a hospital is doing in terms of caring for their patients and managing their resources.
 
 ---
