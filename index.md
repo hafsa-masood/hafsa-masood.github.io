@@ -30,18 +30,12 @@ I created Tableau visualizations with basketball player and team data to look at
 
 ---
 #### [Mining Company]
+<img src="images/mining.jpeg?raw=true"/>
+For this project, I summarized and visualized a mining company's flotation plant data to investigate an anomoly in their Iron purification. 
 
 ---
 
-### Category Name 2
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
-
----
 
 
 
