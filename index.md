@@ -29,7 +29,7 @@ In this case study, I analyzed hospital data to see how well a hospital is doing
 I created Tableau visualizations with basketball player and team data to look at player performance and make better team strategies. 
 
 ---
-#### [Mining Company]
+#### [Mining Company Analysis](https://www.linkedin.com/pulse/python-project-analyzing-mining-data-hafsa-masood/)
 <img src="images/mining.jpeg?raw=true"/>
 For this project, I summarized and visualized a mining company's flotation plant data to investigate an anomoly in their Iron purification. 
 
