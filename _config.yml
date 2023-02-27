@@ -1,8 +1,10 @@
 title: Hafsa Masood # your name (or website title) here
 logo: "/images/github-logo.jpg" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  It;s almost christmas 
-  I want some pizza  <br><br>
+  This is my portfolio. I love data, and I’m constantly learning new and better ways to make sense of it. 
+  My aim is to use data to create meaning from the world around me,
+  and to help other become more informed in the things that matter most to them
+  so that they can make better and more informed decisions. <br><br>
   <a href="https://www.linkedin.com/in/hafsa-masood/">View My LinkedIn Profile</a> 
   
 theme: jekyll-theme-minimal
